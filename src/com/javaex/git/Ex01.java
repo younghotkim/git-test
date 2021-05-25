@@ -6,6 +6,7 @@ public class Ex01 {
 		
 		System.out.println("5/1코드");
 		
+		System.out.println("5/2 코드");
 		
 
 	}
